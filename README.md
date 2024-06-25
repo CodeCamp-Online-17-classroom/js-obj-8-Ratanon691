@@ -17,3 +17,4 @@ multiplyNumeric(menu, 3)
 //  title: 'My menu'
 // };
 ```
+Rattanon Tunwittaya
